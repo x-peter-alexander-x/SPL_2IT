@@ -22,5 +22,3 @@ for i in range(int(anzahlRunden)):
     else:
         print(rZ)
 
-print(counterW)
-print(counterR)
